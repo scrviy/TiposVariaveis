@@ -1,0 +1,15 @@
+/home/scurvyy/dev/dotnet/TiposVariaveis/bin/Debug/net7.0/TiposVariaveis
+/home/scurvyy/dev/dotnet/TiposVariaveis/bin/Debug/net7.0/TiposVariaveis.deps.json
+/home/scurvyy/dev/dotnet/TiposVariaveis/bin/Debug/net7.0/TiposVariaveis.runtimeconfig.json
+/home/scurvyy/dev/dotnet/TiposVariaveis/bin/Debug/net7.0/TiposVariaveis.dll
+/home/scurvyy/dev/dotnet/TiposVariaveis/bin/Debug/net7.0/TiposVariaveis.pdb
+/home/scurvyy/dev/dotnet/TiposVariaveis/obj/Debug/net7.0/TiposVariaveis.csproj.AssemblyReference.cache
+/home/scurvyy/dev/dotnet/TiposVariaveis/obj/Debug/net7.0/TiposVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+/home/scurvyy/dev/dotnet/TiposVariaveis/obj/Debug/net7.0/TiposVariaveis.AssemblyInfoInputs.cache
+/home/scurvyy/dev/dotnet/TiposVariaveis/obj/Debug/net7.0/TiposVariaveis.AssemblyInfo.cs
+/home/scurvyy/dev/dotnet/TiposVariaveis/obj/Debug/net7.0/TiposVariaveis.csproj.CoreCompileInputs.cache
+/home/scurvyy/dev/dotnet/TiposVariaveis/obj/Debug/net7.0/TiposVariaveis.dll
+/home/scurvyy/dev/dotnet/TiposVariaveis/obj/Debug/net7.0/refint/TiposVariaveis.dll
+/home/scurvyy/dev/dotnet/TiposVariaveis/obj/Debug/net7.0/TiposVariaveis.pdb
+/home/scurvyy/dev/dotnet/TiposVariaveis/obj/Debug/net7.0/TiposVariaveis.genruntimeconfig.cache
+/home/scurvyy/dev/dotnet/TiposVariaveis/obj/Debug/net7.0/ref/TiposVariaveis.dll

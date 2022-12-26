@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "juKXeguw4DMn4IF3osdNIrSQ/UzLhtqoOyVZR+Va1naQPMsNfnNd8KflI3z5WBWwZldxPLUpICW7b3/HtyLOJQ==",
+  "success": true,
+  "projectFilePath": "/home/scurvyy/dev/dotnet/TiposVariaveis/TiposVariaveis.csproj",
+  "expectedPackageFiles": [
+    "/home/scurvyy/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.1/microsoft.aspnetcore.app.ref.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
